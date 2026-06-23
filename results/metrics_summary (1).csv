@@ -1,0 +1,22 @@
+Metric,Value
+Dataset,BraTS 2020
+Total H5 Slices,57195
+Tumor Slices Evaluated,447
+Average Tumor Percentage,1.45
+Median Tumor Percentage,1.18
+Min Tumor Percentage,0.0017
+Max Tumor Percentage,6.53
+Small Tumors Count,197
+Medium Tumors Count,193
+Large Tumors Count,57
+Average Dice Score,0.673
+Average IoU,0.576
+Best Dice Score,0.96
+Small Tumor Dice,0.318
+Medium Tumor Dice,0.675
+Large Tumor Dice,0.794
+Model Parameters,7858787
+Input Shape,240x240x4
+Output Shape,240x240x3
+MRI Modalities,FLAIR+T1CE+T2+T1
+Segmentation Classes,Necrotic Core+Edema+Enhancing Tumor
