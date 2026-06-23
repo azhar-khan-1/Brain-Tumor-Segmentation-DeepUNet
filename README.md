@@ -73,6 +73,8 @@ The architecture enables precise localization while preserving contextual inform
 
 ### MRI Modalities
 
+This figure illustrates the four MRI modalities used in the BraTS 2020 dataset: T1, T1CE, T2, and FLAIR. Each modality highlights different anatomical and pathological characteristics, providing complementary information for accurate tumor segmentation.
+
 ![MRI Modalities](images/mri_modalities_best_case.png)
 
 ### Multi-Class Tumor Labels
